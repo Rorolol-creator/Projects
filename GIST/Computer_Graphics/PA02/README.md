@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/o-r-F7Rw)
 # glskeleton
 
 This is template OpenGL cmake project for project for [computer graphics course](https://cglab.gist.ac.kr/courses.html) in gist.
