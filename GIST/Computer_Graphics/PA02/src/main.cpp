@@ -47,7 +47,7 @@ int main()
         return -1;
     }
 
-    std::string inputfile = "../assets/bunny.obj";
+    std::string inputfile = "../../assets/bunny.obj";
     tinyobj::attrib_t attrib;
     std::vector<tinyobj::shape_t> shapes;
     std::vector<tinyobj::material_t> materials;
