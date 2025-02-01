@@ -4,6 +4,8 @@ Here are some sample pictures of me playing with the 3D bunny
 
 ![image](https://github.com/user-attachments/assets/11b98edb-ff66-42cb-8f92-12d45276afa1)
 
+![image](https://github.com/user-attachments/assets/c7883a9e-13c7-4679-b3dd-7504ff2171d1)
+
 ![image](https://github.com/user-attachments/assets/67103230-ef6d-414a-99d2-5a0dc9733603)
 
 ![image](https://github.com/user-attachments/assets/c6b48a71-69e6-4c97-aed3-63c5cfc7da92)
