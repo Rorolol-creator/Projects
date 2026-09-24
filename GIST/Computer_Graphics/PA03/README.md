@@ -1,8 +1,9 @@
-# Report
+# Overview
 
-Here are some sample pictures of the images I create with my program.
+I implemented a ray-tracer!
 
 # Implementations
+
 Lambertian:
 
 ![image](https://github.com/Rorolol-creator/Projects/blob/main/GIST/.images/Screenshot_2026-09-24_16-38-37.png)
