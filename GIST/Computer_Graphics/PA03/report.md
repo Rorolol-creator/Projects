@@ -5,7 +5,7 @@ Here are some sample pictures of the images I create with my program.
 # Implementations
 Lambertian:
 
-![image](GIST/.images/Screenshot_2026-09-24_16-38-37.png)
+![image](https://github.com/Rorolol-creator/Projects/GIST/.images/Screenshot_2026-09-24_16-38-37.png)
 
 Here is the lambertian implementation with noise.
 
