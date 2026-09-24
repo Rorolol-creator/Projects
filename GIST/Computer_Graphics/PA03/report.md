@@ -5,7 +5,7 @@ Here are some sample pictures of the images I create with my program.
 # Implementations
 Lambertian:
 
-![image](https://github.com/CGLAB-Classes/programming-assignment-4-Lokiao/assets/128077593/95c636ef-b819-45b5-b414-fd9a7e90cae5)
+![image](GIST/.images/Screenshot_2026-09-24_16-38-37.png)
 
 Here is the lambertian implementation with noise.
 
